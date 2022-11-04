@@ -1,0 +1,19 @@
+{
+  "name": "npm--create",
+  "version": "1.0.0",
+  "description": "take risk now and doing something bold",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zinwaishinetrn/npm_create.git"
+  },
+  "author": "zin wai shine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zinwaishinetrn/npm_create/issues"
+  },
+  "homepage": "https://github.com/zinwaishinetrn/npm_create#readme"
+}
